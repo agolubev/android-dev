@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emailText">Email</string>
+    <string name="passwordText">Password</string>
+    <string name="signInText">Sign In</string>
+    <string name="signOnText">Sign On</string>
+    <string name="welcomeTitle">Welcome User!</string>
+    <string name="welcomText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis enim fermentum convallis interdum. Duis vitae metus feugiat, commodo nunc dapibus, volutpat ligula. Duis vehicula hendrerit sem in ornare. Etiam ut dolor ut risus volutpat convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mattis fermentum quam, vitae tempor orci auctor ac. Maecenas ac felis quis metus consectetur posuere.\n\nCras semper dapibus tristique. Duis maximus scelerisque ipsum sed condimentum. Suspendisse quis ornare elit, non suscipit ante. Sed tempus sem vitae interdum vulputate. Praesent velit libero, mollis eget eros nec, efficitur ornare arcu. Praesent blandit erat dolor. Integer at scelerisque mauris. Proin quis magna non mauris maximus porta vel vitae erat. Nullam ut ante scelerisque, rutrum mi ac, luctus libero. Mauris pharetra nec dui quis mollis.\n\nEtiam fringilla id lorem eget feugiat. Curabitur accumsan lacinia tellus, vel facilisis nisi egestas quis. Donec massa nibh, pretium eget aliquet id, commodo at nisl. Phasellus eget convallis diam. Nulla facilisi. Sed ullamcorper tristique massa, at iaculis risus. Ut at commodo ipsum. Nam finibus, velit quis porttitor vehicula, ex tortor aliquam urna, a elementum mauris eros non leo. Fusce at blandit turpis. Maecenas molestie tellus sit amet sem commodo, sit amet dictum augue feugiat. Cras nisi justo, aliquet eget nunc at, placerat condimentum neque. Praesent commodo purus a suscipit fermentum. Fusce in neque quis nisl tempor lacinia.\n\nAliquam sodales tincidunt ante ac consectetur. Duis molestie massa et massa maximus aliquet. Aenean viverra ligula sit amet nibh suscipit, vitae ultricies felis porttitor. Aliquam et leo vitae augue porta dapibus nec quis turpis. Integer eros quam, posuere vitae pharetra sit amet, suscipit nec odio. Etiam hendrerit, ex nec faucibus sollicitudin, orci nibh consectetur dui, quis malesuada justo dui sit amet metus. Duis nibh orci, finibus ac arcu id, gravida volutpat sapien. Cras consectetur aliquet dui ac vehicula. Nulla vulputate vulputate ex, tincidunt dictum ligula tincidunt nec.</string>
+    <string name="gotoShoeListButtonText">Goto Shoe List!</string>
+    <string name="logoutMenuText">Logout</string>
+    <string name="login_title">Login</string>
+    <string name="shoeNameText">Shoe Name</string>
+    <string name="companyText">Company</string>
+    <string name="shoeSizeText">Shoe Size</string>
+    <string name="shoeDescriptionText">Description</string>
+    <string name="saveButtonText">Save</string>
+    <string name="cancelButtonText">Cancel</string>
+</resources>
